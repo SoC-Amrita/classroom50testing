@@ -1,4 +1,2 @@
-def testMethod():
-  return True
-
-# Call the function
+def squareOfn(n):
+  return n
