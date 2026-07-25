@@ -1,4 +1,4 @@
-def testMethod() --> bool:
+def testMethod():
   return True
 
 # Call the function
